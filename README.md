@@ -1,16 +1,43 @@
-## Hi there 👋
+## Sofia Tseitlin
 
-<!--
-**Tseitlin-Sofia/Tseitlin-Sofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior backend developer — Python.** Ramat Gan, Israel. Looking for my first full-time role
+(on-site, hybrid or remote).
 
-Here are some ideas to get you started:
+Most of what I know, I learned by shipping a real project end to end rather than following tutorials.
+On my main project I was **team lead** and handled the **entire deployment pipeline** myself — so I've
+seen the backend from both sides: the code, and what it takes to actually run it in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🍽️ [booking-seats-backend](https://github.com/Tseitlin-Sofia/booking-seats-backend) — my main project
+
+An async table-reservation API for cafés and restaurants. What I personally owned:
+
+- **Team lead** — task breakdown, code review, branching model, the API contract with the frontend team
+- **The time-slot subsystem** — the core of the booking domain: availability, conflict validation, models
+- **All of DevOps** — Dockerized six-service stack (FastAPI · Nginx · PostgreSQL · Redis · Celery ·
+  Flower), deployed and operated on a live server with a domain and HTTPS
+
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker Compose` · `Celery` · `Redis` · `Nginx`
+
+→ The repo's README walks through the architecture, the design decisions, and exactly which parts were mine.
+
+---
+
+### Stack
+
+**Confident:** Python · FastAPI · Django · Flask · PostgreSQL · SQL · Docker
+**Also worked with:** SQLAlchemy · Nginx
+
+### Background
+
+- **Yandex Practicum** — Python Developer (Extended)
+- **Ben-Gurion University** — one year, engineering faculty
+
+### Languages
+
+Russian (native) · English (fluent) · Hebrew (conversational)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/sofia-tseitlin-361516357/) · sofia.zeitlin@gmail.com
