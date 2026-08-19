@@ -15,8 +15,7 @@ An async table-reservation API for cafés and restaurants. What I personally own
 
 - **Team lead** — task breakdown, code review, branching model, the API contract with the frontend team
 - **The time-slot subsystem** — the core of the booking domain: availability, conflict validation, models
-- **All of DevOps** — Dockerized six-service stack (FastAPI · Nginx · PostgreSQL · Redis · Celery ·
-  Flower), deployed and operated on a live server with a domain and HTTPS
+- **Deployment & infrastructure** — containerized the app and deployed it to a live server with a domain and HTTPS (Docker Compose, Nginx, PostgreSQL). I owned the deployment pipeline end to end.
 
 `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker Compose` · `Celery` · `Redis` · `Nginx`
 
@@ -26,8 +25,8 @@ An async table-reservation API for cafés and restaurants. What I personally own
 
 ### Stack
 
-**Confident:** Python · FastAPI · Django · PostgreSQL · SQL · Docker
-**Also worked with:** SQLAlchemy · Nginx · Flask
+**Confident:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · SQL · Docker / Docker Compose
+**Also worked with:** Django · Nginx · Flask
 
 ### Background
 
