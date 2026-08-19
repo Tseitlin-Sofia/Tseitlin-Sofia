@@ -39,4 +39,4 @@ Russian (native) · English (fluent) · Hebrew (conversational)
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/sofia-tseitlin-361516357/) · sofia.zeitlin@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/sofia-tseitlin/) · sofia.zeitlin@gmail.com
