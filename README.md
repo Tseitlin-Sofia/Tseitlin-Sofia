@@ -26,8 +26,8 @@ An async table-reservation API for cafés and restaurants. What I personally own
 
 ### Stack
 
-**Confident:** Python · FastAPI · Django · Flask · PostgreSQL · SQL · Docker
-**Also worked with:** SQLAlchemy · Nginx
+**Confident:** Python · FastAPI · Django · PostgreSQL · SQL · Docker
+**Also worked with:** SQLAlchemy · Nginx · Flask
 
 ### Background
 
